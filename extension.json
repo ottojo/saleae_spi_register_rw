@@ -1,0 +1,13 @@
+{
+  "name": "SPI Register RW",
+  "apiVersion": "1.0.0",
+  "author": "Jonas Otto",
+  "version": "0.0.1",
+  "description": "",
+  "extensions": {
+    "SPI Register RW": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "HighLevelAnalyzer.Hla"
+    }
+  }
+}
